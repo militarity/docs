@@ -39,7 +39,7 @@ W - WireLess
 
 P Pad
 + M - Mouse
-+ Ts - TouchScrenn
++ Ts - TouchScreen
 + Tp - Touchpad
 + Tb - Trackball
 + Tk - Thinkpad in keyboard
