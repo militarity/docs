@@ -1,39 +1,48 @@
 # docs.militarity.com
-Nazwa modelu: MCKP
 
-MCKP
-1211Tb
+  
+Oznaczenie modelu 
 
-2222
-2M-2C-2K-2Tb
-
+    MCKP
+    Monitor-Computer-Keyboard-Pad
 
 
-Monitor
-1 monitor
-2 monitory
+Krótkie:
+    
+    2222
+    1211Tb
+    
+Rozszerzone:
+
+    2M-2C-2K-2Tb
+    1M-2C-1K-1Tb
 
 
-Computer
-1. 1xPC
-2. 2xPC
+## Legenda MCKP
 
 
-Keyboard
-1xKeyboard
-2xKeyboard
-C - Cabel
-W - Wireless
+M Monitor
++ 1 monitor
++ 2 monitory
 
 
+C Computer - MiniPc
++ 1xPC
++ 2xPC
 
 
-Pad
-M - Mouse
-Ts - TouchScrenn
-Tp - Touchpad
-Tb - Trackball
-Tk - Thinkpad in keyboard
+K Keyboard
++ 1xKeyboard
++ 2xKeyboard
+W - WireLess
+
+
+P Pad
++ M - Mouse
++ Ts - TouchScrenn
++ Tp - Touchpad
++ Tb - Trackball
++ Tk - Thinkpad in keyboard
 
 
 
